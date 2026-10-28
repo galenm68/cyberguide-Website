@@ -706,14 +706,14 @@ a {
     overflow: hidden;
 }
 
-/* Max height roughly matches the checklist next to it */
+/* Max height a bit taller than the checklist next to it */
 
 .cyber-image img {
     display: block;
     width: auto;
     max-width: 100%;
     height: auto;
-    max-height: 340px;
+    max-height: 420px;
     border-radius: 5px;
 }
 
